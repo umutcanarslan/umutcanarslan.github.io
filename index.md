@@ -20,7 +20,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-Bold: **c**
+Bold: **Umut Can Arslan**
+Italic: _Umut Can Arslan_
+Code: `System.out.println("Umut Can Arslan");`
+Link: [Instagram](instagram.com/umutcaanarslan)
 
 ### Jekyll Themes
 
