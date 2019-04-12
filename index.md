@@ -23,7 +23,7 @@ Syntax highlighted code block
 Bold: **Umut Can Arslan**
 Italic: _Umut Can Arslan_
 Code: `System.out.println("Umut Can Arslan");`
-Link: [Instagram](instagram.com/umutcaanarslan)
+Link: [Instagram](https://instagram.com/umutcaanarslan)
 
 ### Jekyll Themes
 
